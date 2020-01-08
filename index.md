@@ -6,8 +6,7 @@
   </head>
   <body>
     
-    <script type="text/javascript" id="ogjs" src="https://www.locked1.com/contentlockers/load.php?id=0563f3138bd6d5ebf7e1e8c563a678d0"></script>
-
+<h1>test</h1>
 
   
   </body>
